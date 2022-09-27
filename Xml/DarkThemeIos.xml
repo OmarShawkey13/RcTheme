@@ -36,22 +36,22 @@
     <int name="ModFabText" value="-16745729" />
     <int name="ig_story" value="-16777216" />
     <int name="ConvoBack" value="-15461356" />
-    <boolean name="onlinechat" value="true" />
+    <boolean name="onlinechat" value="false" />
     <boolean name="bgarchived_Gactive" value="false" />
     <boolean name="enable_fivminstatus" value="true" />
     <string name="ui_home_styleV3">ios</string>
-    <string name="convostyle">0</string>
+    <string name="convostyle">3</string>
     <boolean name="ModFabBgColor_Gactive" value="false" />
     <int name="quoted_bg_picker_GCDir" value="3" />
     <int name="HomeCounterBK" value="-16745729" />
     <int name="ModChatBubbleTextLeft" value="-2171170" />
-    <int name="ModHomeMentionIconColor" value="-16777216" />
+    <int name="ModHomeMentionIconColor" value="-16419329" />
     <boolean name="enable_grp_separationV2" value="true" />
     <int name="quoted_divider_picker" value="-2190357" />
     <boolean name="chat_contactpicV2" value="false" />
     <boolean name="chats_row_divider_picker_Gactive" value="false" />
     <boolean name="key_counter_tx_Gactive" value="false" />
-    <int name="ModFabTextColor" value="-16745729" />
+    <int name="ModFabTextColor" value="-16777216" />
     <int name="Text_Drawer" value="-16579837" />
     <boolean name="HomeText_Gactive" value="false" />
     <int name="border_poto" value="16777215" />
@@ -77,6 +77,7 @@
     <int name="ModChatBubbleHyperlinks" value="-11296781" />
     <int name="ModlastseenColor" value="-7895161" />
     <boolean name="Hide_contact_picker_section_frequent_chats" value="false" />
+    <boolean name="status_wantsendconfirmation" value="false" />
     <int name="ModDarkConPickColorNav" value="-16777216" />
     <int name="BGColor" value="-16777216" />
     <boolean name="hiden_nav" value="false" />
@@ -122,7 +123,7 @@
     <boolean name="navigasi_Gactive" value="false" />
     <string name="ConvoEntry">28</string>
     <int name="cevronChat" value="-6118750" />
-    <int name="ModConColor" value="-16777216" />
+    <int name="ModConColor" value="16777215" />
     <boolean name="chats_show_contact_online_toast_check" value="true" />
     <boolean name="key_tab_unselect_menu_Gactive" value="false" />
     <string name="tick_style">rcios11</string>
@@ -169,12 +170,13 @@
     <int name="rvkdmsg_icon_color" value="-325117" />
     <int name="mensen" value="-16745729" />
     <boolean name="ModChatGStatusB_Gactive" value="false" />
+    <boolean name="key_blur_ios_tab" value="true" />
     <boolean name="carview_Gactive" value="false" />
     <boolean name="arc_hc_Gactive" value="false" />
     <int name="emojipopup_icons" value="-11296781" />
     <boolean name="quoted_bg_picker_Gactive" value="false" />
     <int name="chats_row_divider_picker" value="-13092808" />
-    <int name="ModFabNormalColor" value="-16777216" />
+    <int name="ModFabNormalColor" value="-16419329" />
     <boolean name="Header_bawah_Gactive" value="false" />
     <boolean name="hide_action_l" value="true" />
     <boolean name="ModWdgStatusColor_Gactive" value="false" />
@@ -209,7 +211,7 @@
     <boolean name="pagetitle_sel_picker_Gactive" value="false" />
     <boolean name="chat_icon_forward_picker_Gactive" value="false" />
     <int name="quoted_bg_picker_GC" value="-16777216" />
-    <boolean name="yo_want_airplanemode" value="false" />
+    <boolean name="yo_want_airplanemode" value="true" />
     <int name="ModDarkConPickColor" value="-16777216" />
     <int name="status_ch" value="-16745729" />
     <boolean name="yo_multi_account_menu" value="false" />
@@ -217,6 +219,7 @@
     <boolean name="chat_mypicV2" value="false" />
     <int name="ModConTextColor" value="-8092540" />
     <boolean name="key_with_thumb" value="false" />
+    <boolean name="disableDTTL" value="false" />
     <int name="attachbg" value="-13882324" />
     <boolean name="chats_date_pending_color_picker_Gactive" value="false" />
     <int name="HomeBarBar2" value="-5000269" />
@@ -297,6 +300,7 @@
     <boolean name="custom_wall" value="false" />
     <boolean name="ModChatBubbleTextLeft_Gactive" value="false" />
     <boolean name="ModChatEntry_Gactive" value="false" />
+    <boolean name="Conv_call_btns" value="true" />
     <boolean name="elapsed_time" value="false" />
     <int name="btn_voice_color_chat_picker" value="-5789785" />
     <int name="attachChat" value="-16745729" />
