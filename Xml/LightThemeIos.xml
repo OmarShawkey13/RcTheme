@@ -84,7 +84,7 @@
     <boolean name="Hide_contact_picker_section_frequent_chats" value="false" />
     <boolean name="status_wantsendconfirmation" value="false" />
     <int name="RcBkTabs_GC" value="-10087763" />
-    <int name="ModDarkConPickColorNav" value="-263173" />
+    <int name="ModDarkConPickColorNav" value="-1" />
     <boolean name="rcname_color_sub_Gactive" value="false" />
     <int name="BGColor" value="-263173" />
     <boolean name="rcMicColor_Gactive" value="false" />
@@ -106,7 +106,7 @@
     <int name="pagetitle_sel_picker" value="-16753441" />
     <boolean name="ModDarkConPickColorNav_Gactive" value="false" />
     <int name="key_counter_bg" value="-3006892" />
-    <int name="ModChatColor" value="-263173" />
+    <int name="ModChatColor" value="-1" />
     <boolean name="rcCard3_Gactive" value="true" />
     <int name="tabadgeBKColor" value="-3006892" />
     <string name="ui_home_style">1</string>
@@ -126,7 +126,7 @@
     <int name="tabadgeTextColor" value="-1" />
     <string name="ConvoEntry">28</string>
     <int name="cevronChat" value="-11645362" />
-    <int name="ModConColor" value="16777215" />
+    <int name="ModConColor" value="-1" />
     <boolean name="chats_show_contact_online_toast_check" value="false" />
     <string name="tick_style">rcios11</string>
     <int name="ModConPickColor_GC" value="-15847284" />
@@ -223,7 +223,7 @@
     <boolean name="chat_icon_forward_picker_Gactive" value="false" />
     <boolean name="yo_want_airplanemode" value="false" />
     <int name="error_GC" value="-15847284" />
-    <int name="ModDarkConPickColor" value="-263173" />
+    <int name="ModDarkConPickColor" value="-1" />
     <int name="status_ch" value="-16645630" />
     <boolean name="Archv_chats" value="false" />
     <boolean name="BgSearch_Gactive" value="false" />
@@ -299,7 +299,7 @@
     <int name="error_GCDir" value="2" />
     <boolean name="seekbar_color_chat_picker_Gactive" value="false" />
     <boolean name="enable_ig_stories" value="false" />
-    <int name="ModConPickColor" value="-263173" />
+    <int name="ModConPickColor" value="-1" />
     <boolean name="SearchViw_Gactive" value="false" />
     <boolean name="enable_old" value="true" />
     <int name="status_nm" value="-16777216" />
@@ -321,10 +321,11 @@
     <int name="dial_bg" value="-1" />
     <int name="pic_chat_size_pickerV2" value="40" />
     <boolean name="RcsetBg_Gactive" value="false" />
-    <boolean name="custom_wall" value="true" />
+    <boolean name="custom_wall" value="false" />
     <boolean name="auto_disabled" value="true" />
     <boolean name="ModChatBubbleTextLeft_Gactive" value="false" />
     <boolean name="ModChatEntry_Gactive" value="false" />
+    <boolean name="Conv_call_btns" value="true" />
     <boolean name="elapsed_time" value="false" />
     <int name="rcAttachTx" value="-16777216" />
     <int name="attachChat" value="-16777216" />
