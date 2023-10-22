@@ -26,6 +26,7 @@
     <boolean name="HomeBarText_Gactive" value="false" />
     <int name="date_right_color" value="-1517620" />
     <int name="emojipopup_body" value="-14671835" />
+    <boolean name="rc_photos_limit" value="true" />
     <boolean name="NameProf" value="false" />
     <boolean name="ModChatEmojiColor_Gactive" value="false" />
     <boolean name="emojipopup_body_Gactive" value="false" />
@@ -37,8 +38,9 @@
     <int name="ModChatLeftBubble" value="-12436163" />
     <boolean name="ModChaSendBKColor_Gactive" value="false" />
     <boolean name="enable_fivminstatus" value="false" />
-    <string name="ui_home_styleV3">ios</string>
+    <string name="ui_home_styleV3">ios_v2</string>
     <boolean name="pagetitle_sel_picker_Gactive" value="false" />
+    <string name="convostyle">3</string>
     <int name="HomeCounterBK" value="-1927612" />
     <int name="ModChatBubbleTextLeft" value="-1" />
     <int name="ModHomeMentionIconColor" value="-1" />
@@ -55,6 +57,7 @@
     <boolean name="ModConTextColor_Gactive" value="false" />
     <boolean name="group_mypicV2" value="false" />
     <boolean name="key_with_thumb" value="false" />
+    <boolean name="disableDTTL" value="false" />
     <boolean name="ModOnlineColor_Gactive" value="false" />
     <boolean name="yo_hideinfo" value="false" />
     <boolean name="hiden_search_act" value="false" />
@@ -69,13 +72,14 @@
     <boolean name="tabadgeBKColor_Gactive" value="false" />
     <boolean name="hiden_group" value="false" />
     <boolean name="ModChatColor_Gactive" value="false" />
-    <string name="bubble_style">apple</string>
+    <string name="bubble_style">cvios</string>
     <boolean name="onlineDotchat" value="false" />
     <int name="ModChatBtnColor" value="-1927612" />
     <int name="ModChatBubbleHyperlinks" value="-5555928" />
     <int name="ModlastseenColor" value="-1927612" />
     <boolean name="key_counter_bg_Gactive" value="false" />
     <boolean name="Hide_contact_picker_section_frequent_chats" value="false" />
+    <boolean name="status_wantsendconfirmation" value="false" />
     <boolean name="ModChatLeftBubble_Gactive" value="false" />
     <int name="ModDarkConPickColorNav" value="-14671835" />
     <string name="pic_startlocation">1</string>
@@ -84,6 +88,7 @@
     <boolean name="pic_inside" value="false" />
     <boolean name="HomeCounterText_Gactive" value="false" />
     <int name="date_left_color" value="-1517620" />
+    <boolean name="rc_docs_limit" value="true" />
     <boolean name="ModDarkConPickColor_Gactive" value="false" />
     <boolean name="pagetitle_picker_Gactive" value="false" />
     <boolean name="ModChatBubbleText_Gactive" value="false" />
@@ -124,9 +129,11 @@
     <boolean name="enable_ig_stories" value="false" />
     <boolean name="stkr_wantsendconfirmation" value="false" />
     <int name="ModConPickColor" value="-14671835" />
+    <boolean name="entry_translate" value="false" />
     <boolean name="date_right_color_Gactive" value="false" />
     <int name="tabadgeTextColor" value="-1" />
     <string name="ConvoEntry">28</string>
+    <boolean name="rc_audio_limit" value="true" />
     <int name="ModConColor" value="-14671835" />
     <boolean name="chats_show_contact_online_toast_check" value="true" />
     <string name="key_story_view">0</string>
@@ -140,7 +147,7 @@
     <boolean name="imsHideMStatus" value="false" />
     <boolean name="UnSeenColor_Gactive" value="false" />
     <boolean name="ModChatTextColor_Gactive" value="false" />
-    <string name="ui_bottom_style">ios</string>
+    <string name="ui_bottom_style">ios_v2</string>
     <boolean name="my_name" value="false" />
     <int name="pic_chat_size_pickerV2" value="40" />
     <int name="pagetitle_picker" value="-1" />
@@ -150,6 +157,7 @@
     <boolean name="ModChatEntry_Gactive" value="false" />
     <boolean name="elapsed_time" value="false" />
     <int name="btn_voice_color_chat_picker" value="-5555928" />
+    <boolean name="rc_media_limit" value="true" />
     <boolean name="ModlastseenColor_Gactive" value="false" />
     <int name="onlineDotchatColor" value="-1927612" />
     <int name="ModHomeMentionIndBackground" value="-1927612" />
@@ -160,6 +168,7 @@
     <boolean name="Audio_ears" value="false" />
     <int name="ModChatEntry" value="-14145492" />
     <string name="inconvo_trans_option">in-y</string>
+    <boolean name="rc_high_res" value="true" />
     <boolean name="ConvoBack_Gactive" value="false" />
     <int name="square_photo_ratio_picker" value="100" />
     <boolean name="statuses_bar_bg_picker_Gactive" value="false" />
@@ -170,6 +179,7 @@
     <boolean name="ModConPickColor_Gactive" value="false" />
     <string name="HomeEntry">yousef</string>
     <boolean name="ModChatBubbleHyperlinks_Gactive" value="false" />
+    <boolean name="grpAdmin_enabled" value="true" />
     <boolean name="statuses_bar_text_picker_Gactive" value="false" />
     <int name="date_divider_color_picker" value="-3554374" />
     <int name="main_text" value="15" />
@@ -177,6 +187,7 @@
     <int name="SeenColor" value="-15396317" />
     <boolean name="hiden_sech" value="false" />
     <boolean name="ModConColor_Gactive" value="false" />
+    <boolean name="yo_want_toolbar_cam" value="true" />
     <int name="text_size_pick" value="14" />
     <int name="ModOnlineColor" value="-1927612" />
 </map>
