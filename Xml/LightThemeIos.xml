@@ -18,12 +18,13 @@
     <int name="rcCard2_GC" value="-3093774" />
     <boolean name="ItemText_Gactive" value="false" />
     <boolean name="hide_Conv_groupcall_btn" value="true" />
-    <boolean name="newAttach_BottomDesign" value="true" />
+    <boolean name="newAttach_BottomDesign" value="false" />
     <int name="chat_icon_bg_forward_picker" value="-1" />
     <boolean name="Conv_call_btn" value="false" />
     <boolean name="ModFabTextColor_Gactive" value="false" />
     <boolean name="RcSeenColor_Gactive" value="false" />
     <boolean name="Hide_div" value="false" />
+    <boolean name="yo_want_ghostmode" value="true" />
     <boolean name="isSwipeEnabled" value="false" />
     <boolean name="TextSearch_Gactive" value="false" />
     <boolean name="hiden_fab" value="true" />
@@ -42,7 +43,7 @@
     <boolean name="onlinechat" value="false" />
     <boolean name="enable_fivminstatus" value="true" />
     <string name="ui_home_styleV2">1</string>
-    <string name="ui_home_styleV3">ios</string>
+    <string name="ui_home_styleV3">ios_v2</string>
     <string name="convostyle">3</string>
     <int name="HomeCounterBK" value="-16753441" />
     <int name="ModChatBubbleTextLeft" value="-16777216" />
@@ -65,7 +66,7 @@
     <int name="oh_anunya" value="-16753441" />
     <boolean name="RCtabBg_Gactive" value="false" />
     <boolean name="error_Gactive" value="false" />
-    <boolean name="yo_hideinfo" value="true" />
+    <boolean name="yo_hideinfo" value="false" />
     <boolean name="attachChat_Gactive" value="false" />
     <boolean name="ItemIcon_Gactive" value="false" />
     <boolean name="Hide_contact_picker_section_recent_chats" value="false" />
@@ -78,6 +79,7 @@
     <int name="RcUnSeenColor" value="-15505416" />
     <int name="BgSearch" value="-1776153" />
     <boolean name="tabadgeBKColor_Gactive" value="false" />
+    <boolean name="onlineDotchat" value="false" />
     <int name="ModChatBubbleHyperlinks" value="-2023091" />
     <boolean name="rcCard1_Gactive" value="true" />
     <int name="ModlastseenColor" value="-6118750" />
@@ -88,11 +90,13 @@
     <boolean name="rcname_color_sub_Gactive" value="false" />
     <int name="BGColor" value="-263173" />
     <boolean name="rcMicColor_Gactive" value="false" />
+    <boolean name="enable_statuspage_extras" value="true" />
     <boolean name="hiden_nav" value="false" />
     <int name="rcCard1_GC" value="-14602" />
     <string name="font">Default</string>
     <int name="quoted_bg_picker" value="16514043" />
     <boolean name="Searchikon_Gactive" value="false" />
+    <boolean name="rc_docs_limit" value="true" />
     <boolean name="pagetitle_picker_Gactive" value="false" />
     <boolean name="statuschat" value="true" />
     <int name="rcCard2_GCDir" value="2" />
@@ -120,8 +124,9 @@
     <boolean name="bubblenewtext_Gactive" value="false" />
     <int name="rcCard3_GC" value="-270104" />
     <boolean name="chat_icon_bg_forward_picker_Gactive" value="false" />
-    <boolean name="stkr_wantsendconfirmation" value="false" />
+    <boolean name="stkr_wantsendconfirmation" value="true" />
     <boolean name="ModWdgTitleColor_Gactive" value="false" />
+    <boolean name="entry_translate" value="false" />
     <boolean name="date_right_color_Gactive" value="false" />
     <int name="tabadgeTextColor" value="-1" />
     <string name="ConvoEntry">28</string>
@@ -140,7 +145,7 @@
     <boolean name="imsHideMStatus" value="false" />
     <boolean name="ModChatTextColor_Gactive" value="false" />
     <int name="RcBkTabs" value="-1006632961" />
-    <string name="ui_bottom_style">ios</string>
+    <string name="ui_bottom_style">ios_v2</string>
     <int name="RcBkTabs_GCDir" value="2" />
     <boolean name="my_name" value="false" />
     <boolean name="TxtSelect" value="true" />
@@ -148,6 +153,7 @@
     <int name="ModFabColor" value="-263173" />
     <int name="rcname_color_sub" value="-8224126" />
     <int name="ModChatDarkColor" value="-263173" />
+    <boolean name="rc_media_limit" value="true" />
     <int name="rcCard1_GCDir" value="2" />
     <boolean name="hide_action_a" value="true" />
     <boolean name="rc_Txunseen_Gactive" value="false" />
@@ -187,6 +193,7 @@
     <boolean name="quoted_bg_picker_Gactive" value="false" />
     <int name="chats_row_divider_picker" value="-1644826" />
     <int name="ModFabNormalColor" value="-263173" />
+    <boolean name="hide_action_s" value="false" />
     <boolean name="hide_action_l" value="true" />
     <boolean name="ModWdgStatusColor_Gactive" value="false" />
     <int name="ModContactNameColor" value="-16645630" />
@@ -208,6 +215,7 @@
     <int name="RcsetTarg" value="-1579033" />
     <int name="date_right_color" value="-11645362" />
     <int name="emojipopup_body" value="-263173" />
+    <boolean name="rc_photos_limit" value="true" />
     <string name="chats_play_contact_online_tone"></string>
     <boolean name="emojipopup_body_Gactive" value="false" />
     <boolean name="NameProf" value="false" />
@@ -238,6 +246,7 @@
     <boolean name="chats_date_pending_color_picker_Gactive" value="false" />
     <int name="HomeBarBar2" value="-11645362" />
     <boolean name="ModOnlineColor_Gactive" value="false" />
+    <boolean name="yo_want_toolbar_camV2" value="false" />
     <boolean name="hiden_search_act" value="false" />
     <boolean name="date_divider_color_picker_Gactive" value="false" />
     <boolean name="PicProf" value="false" />
@@ -277,6 +286,7 @@
     <int name="emojipopup_header" value="-263173" />
     <int name="quoted_name_picker" value="-14387106" />
     <int name="ModChatGStatusB" value="-263173" />
+    <boolean name="yo_want_nightmodeV2" value="false" />
     <int name="HomeBarText" value="-16753441" />
     <int name="dial_text" value="-16777216" />
     <boolean name="yoTostC_Gactive" value="false" />
@@ -305,9 +315,10 @@
     <int name="status_nm" value="-16777216" />
     <boolean name="mensen_Gactive" value="false" />
     <int name="BkItem" value="16777215" />
+    <boolean name="rc_audio_limit" value="true" />
     <int name="CardStori" value="-263173" />
     <string name="key_story_view">0</string>
-    <boolean name="read_more" value="true" />
+    <boolean name="read_more" value="false" />
     <int name="CardStori_GCDir" value="2" />
     <int name="DrawerText" value="-16777216" />
     <boolean name="date_left_color_Gactive" value="false" />
@@ -326,7 +337,7 @@
     <boolean name="ModChatBubbleTextLeft_Gactive" value="false" />
     <boolean name="ModChatEntry_Gactive" value="false" />
     <boolean name="Conv_call_btns" value="true" />
-    <boolean name="elapsed_time" value="false" />
+    <boolean name="elapsed_time" value="true" />
     <int name="rcAttachTx" value="-16777216" />
     <int name="attachChat" value="-16777216" />
     <int name="rc_Txunseen" value="-16753441" />
@@ -335,7 +346,8 @@
     <boolean name="ModFabNormalColor_Gactive" value="false" />
     <boolean name="key_chat_iconback_picker_Gactive" value="false" />
     <int name="ModChatEntry" value="-263173" />
-    <boolean name="Audio_ears" value="false" />
+    <boolean name="Audio_ears" value="true" />
+    <boolean name="rc_high_res" value="true" />
     <boolean name="yoTostT_Gactive" value="false" />
     <int name="ModWdgBKColor" value="-263173" />
     <int name="square_photo_ratio_picker" value="100" />
