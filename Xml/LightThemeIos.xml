@@ -3,11 +3,13 @@
     <int name="bubblenewtext" value="-16053493" />
     <int name="quoted_text_picker" value="-10066330" />
     <int name="tittle_size" value="20" />
+    <int name="rc_dot_margin_top" value="45" />
     <int name="key_avatar_border_size" value="5" />
     <boolean name="disable_hiddenchat_access" value="false" />
     <boolean name="my_statusd" value="true" />
     <int name="RcTargetColor" value="-284552933" />
     <boolean name="imsHideVStatus" value="false" />
+    <boolean name="abu_saleh_toast_profile_cs" value="true" />
     <int name="key_updown_iconcolor" value="-1" />
     <int name="bubblenew" value="-263173" />
     <boolean name="date_bubble_color_picker_Gactive" value="false" />
@@ -15,6 +17,7 @@
     <boolean name="ModFabTextColor_Gactive" value="false" />
     <boolean name="RcSeenColor_Gactive" value="false" />
     <boolean name="isSwipeEnabled" value="false" />
+    <boolean name="key_hide_unsaved_num" value="false" />
     <boolean name="hiden_fab" value="true" />
     <boolean name="dial_bg_Gactive" value="false" />
     <boolean name="HomeBarText_Gactive" value="false" />
@@ -22,6 +25,7 @@
     <int name="rcCard2" value="-1507585" />
     <int name="rcCard3" value="-1832" />
     <int name="ConvoBack" value="-16117477" />
+    <boolean name="abu_saleh_toast_profile_el" value="false" />
     <boolean name="onlinechat" value="false" />
     <boolean name="enable_fivminstatus" value="true" />
     <string name="convostyle">3</string>
@@ -33,6 +37,7 @@
     <int name="quoted_divider_picker" value="-14387106" />
     <int name="ItemIcon" value="-16777216" />
     <int name="RcSeenColor" value="-6118750" />
+    <boolean name="abu_saleh_toast_online_cs" value="true" />
     <int name="ModFabTextColor" value="-16744961" />
     <boolean name="key_counter_tx_Gactive" value="false" />
     <int name="rcEmojiColor" value="-16753441" />
@@ -42,12 +47,15 @@
     <boolean name="group_mypicV2" value="false" />
     <int name="SearchViw" value="-2302756" />
     <int name="oh_anunya" value="-16753441" />
+    <boolean name="abu_saleh_toast_status_view" value="true" />
     <boolean name="error_Gactive" value="false" />
     <boolean name="yo_hideinfo" value="false" />
     <boolean name="attachChat_Gactive" value="false" />
     <boolean name="ItemIcon_Gactive" value="false" />
     <int name="RcUnSeenColor" value="-15505416" />
     <boolean name="tabadgeBKColor_Gactive" value="false" />
+    <boolean name="arch_chats_top" value="true" />
+    <boolean name="abu_saleh_research" value="false" />
     <boolean name="onlineDotchat" value="false" />
     <int name="ModChatBubbleHyperlinks" value="-2023091" />
     <int name="ModlastseenColor" value="-6118750" />
@@ -56,20 +64,26 @@
     <int name="RcBkTabs_GC" value="-10087763" />
     <int name="ModDarkConPickColorNav" value="-1" />
     <boolean name="rcname_color_sub_Gactive" value="false" />
+    <int name="abu_saleh_toast_online_bc" value="-14833055" />
     <string name="font">Default</string>
     <int name="quoted_bg_picker" value="16514043" />
     <boolean name="Searchikon_Gactive" value="false" />
+    <boolean name="abu_saleh_toast_typing_view" value="true" />
     <boolean name="rc_docs_limit" value="true" />
     <boolean name="statuschat" value="true" />
     <boolean name="HomeBarBar_Gactive" value="false" />
     <boolean name="ModDarkConPickColorNav_Gactive" value="false" />
+    <boolean name="rc_row_dot_bd_Gactive" value="false" />
     <int name="key_counter_bg" value="-3006892" />
+    <int name="rc_row_dot_bd" value="16711680" />
     <int name="ModChatColor" value="-1" />
     <boolean name="rcCard3_Gactive" value="true" />
     <boolean name="hide_translation_icon" value="true" />
+    <int name="abu_saleh_toast_status_bc" value="-14833055" />
     <string name="ui_home_style">1</string>
     <boolean name="HomeCounterBK_Gactive" value="false" />
     <boolean name="DrawerText_Gactive" value="false" />
+    <boolean name="abu_saleh_toast_status_cs" value="true" />
     <boolean name="bubblenewtext_Gactive" value="false" />
     <boolean name="chat_icon_bg_forward_picker_Gactive" value="false" />
     <boolean name="ModWdgTitleColor_Gactive" value="false" />
@@ -87,6 +101,7 @@
     <boolean name="TxtSelect" value="true" />
     <int name="pagetitle_picker" value="-5987164" />
     <int name="ModFabColor" value="-263173" />
+    <int name="abu_saleh_toast_profile_bc" value="-14833055" />
     <int name="ModChatDarkColor" value="-263173" />
     <int name="rcCard1_GCDir" value="2" />
     <boolean name="hide_action_a" value="true" />
@@ -117,6 +132,7 @@
     <boolean name="hide_action_m" value="false" />
     <string name="key_admicon_list">0</string>
     <boolean name="BkItem_Gactive" value="false" />
+    <int name="abu_saleh_toast_typing_tc" value="-1" />
     <int name="UnSeenColor" value="-16744961" />
     <boolean name="RcStatusTitle_Gactive" value="false" />
     <boolean name="HomeBarBar2_Gactive" value="false" />
@@ -124,6 +140,7 @@
     <int name="ModConDarkColor" value="-263173" />
     <int name="RcsetTarg" value="-1579033" />
     <int name="date_right_color" value="-11645362" />
+    <string name="abu_saleh_toast_status_gv">0</string>
     <boolean name="emojipopup_body_Gactive" value="false" />
     <boolean name="NameProf" value="false" />
     <int name="rcCard3_GCDir" value="2" />
@@ -134,15 +151,18 @@
     <int name="ModDarkConPickColor" value="-1" />
     <boolean name="key_hide_scrolldown" value="false" />
     <boolean name="BgSearch_Gactive" value="false" />
+    <int name="rc_dot_size" value="16" />
     <boolean name="chat_mypicV2" value="false" />
     <int name="ModConTextColor" value="-11645362" />
     <boolean name="key_with_thumb" value="true" />
     <boolean name="disableDTTL" value="false" />
+    <int name="abu_saleh_toast_typing_rd" value="23" />
     <int name="ModFabNormalColor_GC" value="-16102475" />
     <int name="attachbg" value="-263173" />
     <boolean name="chats_date_pending_color_picker_Gactive" value="false" />
     <boolean name="date_divider_color_picker_Gactive" value="false" />
     <int name="rc_Bkunseen" value="-263173" />
+    <boolean name="abu_saleh_toast_status_el" value="false" />
     <boolean name="SeenColor_Gactive" value="false" />
     <boolean name="btn_voice_color_chat_picker_Gactive" value="false" />
     <boolean name="rcAttachTx_Gactive" value="false" />
@@ -157,6 +177,7 @@
     <boolean name="AttBt" value="false" />
     <boolean name="rcname_color_Gactive" value="false" />
     <boolean name="RcTextTab_Gactive" value="false" />
+    <boolean name="abu_saleh_toast_online_el" value="false" />
     <boolean name="ModDarkConPickColor_Gactive" value="false" />
     <boolean name="ModChatBubbleText_Gactive" value="false" />
     <int name="ModFabPressedColor" value="1442577403" />
@@ -173,6 +194,7 @@
     <boolean name="tittle_bold" value="false" />
     <int name="ModChatGStatusT" value="-11645362" />
     <int name="rcAttachBk" value="-1" />
+    <boolean name="abu_saleh_toast_profile_view" value="false" />
     <int name="RcsetBg" value="-1" />
     <int name="statuses_bar_text_picker" value="-16753441" />
     <boolean name="isSwipeEnabledV2" value="false" />
@@ -180,6 +202,7 @@
     <boolean name="rcCard2_Gactive" value="true" />
     <int name="status_nw" value="-16744961" />
     <int name="error_GCDir" value="2" />
+    <boolean name="chats_filter_key" value="false" />
     <boolean name="seekbar_color_chat_picker_Gactive" value="false" />
     <boolean name="enable_old" value="true" />
     <int name="status_nm" value="-16777216" />
@@ -188,10 +211,14 @@
     <boolean name="admin_abosaleh" value="false" />
     <boolean name="read_more" value="false" />
     <int name="CardStori_GCDir" value="2" />
+    <string name="abu_saleh_quickcontact">1</string>
     <int name="DrawerText" value="-16777216" />
+    <int name="key_mas_setBackground_quick" value="-16744343" />
     <boolean name="border_poto_Gactive" value="false" />
     <boolean name="yo_want_nightmode" value="false" />
+    <string name="abu_saleh_toast_online_gv">0</string>
     <int name="quickBK" value="-14833055" />
+    <boolean name="abu_saleh_hide_community_icon" value="false" />
     <int name="dial_bg" value="-1" />
     <boolean name="ModChatBubbleTextLeft_Gactive" value="false" />
     <boolean name="ModChatEntry_Gactive" value="false" />
@@ -214,9 +241,12 @@
     <int name="SeenColor" value="-3267291" />
     <int name="ModOnlineColor" value="-6118750" />
     <string name="conversation_style_attach">0</string>
+    <boolean name="abu_saleh_status_and_photo" value="true" />
     <int name="ModChaSendBKColor" value="-263173" />
+    <int name="abu_saleh_toast_profile_tc" value="-1" />
     <int name="CardStori_GC" value="-2039574" />
     <boolean name="RcBkTabs_Gactive" value="false" />
+    <int name="abu_saleh_toast_online_rd" value="23" />
     <boolean name="ModContactNameColor_Gactive" value="false" />
     <int name="rcCard2_GC" value="-3093774" />
     <boolean name="ItemText_Gactive" value="false" />
@@ -224,7 +254,8 @@
     <boolean name="newAttach_BottomDesign" value="true" />
     <int name="chat_icon_bg_forward_picker" value="-1" />
     <boolean name="Hide_div" value="false" />
-    <boolean name="yo_want_ghostmode" value="true" />
+    <boolean name="yo_want_ghostmode" value="false" />
+    <boolean name="key_mas_hide_archive_home" value="false" />
     <boolean name="TextSearch_Gactive" value="false" />
     <boolean name="list_bg_color_Gactive" value="false" />
     <int name="ModWdgTitleColor" value="-16645630" />
@@ -234,9 +265,12 @@
     <int name="ig_story" value="-263173" />
     <boolean name="abu_saleh_forward_tovoice" value="false" />
     <string name="ui_home_styleV2">1</string>
+    <boolean name="abu_saleh_new_story" value="true" />
     <string name="ui_home_styleV3">ios_v2</string>
+    <int name="rc_dot_margin_left" value="50" />
     <boolean name="chat_contactpicV2" value="true" />
     <boolean name="chats_row_divider_picker_Gactive" value="false" />
+    <int name="abu_saleh_toast_online_tc" value="-1" />
     <boolean name="bubble_more_options_dlg" value="true" />
     <int name="ModConBackColor" value="-1" />
     <boolean name="RCtabBg_Gactive" value="false" />
@@ -250,6 +284,7 @@
     <boolean name="abosaleh_mention_member" value="false" />
     <int name="HomeCounterText" value="-1" />
     <int name="BgSearch" value="-1776153" />
+    <string name="key_custom_title">RCMods</string>
     <boolean name="direkt_link_degistir" value="false" />
     <boolean name="rcCard1_Gactive" value="true" />
     <int name="BGColor" value="-263173" />
@@ -257,6 +292,7 @@
     <boolean name="enable_statuspage_extras" value="true" />
     <boolean name="hiden_nav" value="false" />
     <int name="rcCard1_GC" value="-14602" />
+    <int name="key_blur_raduis" value="50" />
     <boolean name="pagetitle_picker_Gactive" value="false" />
     <int name="rcCard2_GCDir" value="2" />
     <boolean name="want_status_toast" value="false" />
@@ -268,11 +304,14 @@
     <int name="ModChaSendColor" value="-16753441" />
     <int name="pagetitle_sel_picker" value="-16753441" />
     <boolean name="key_send_hidden_msg" value="false" />
+    <string name="ui_header_style">old</string>
+    <boolean name="onlineDotchatColor_Gactive" value="false" />
     <int name="tabadgeBKColor" value="-3006892" />
     <boolean name="emojipopup_header_Gactive" value="false" />
     <boolean name="home_imgBK" value="false" />
     <string name="yo_nicons">10</string>
     <boolean name="quoted_name_picker_Gactive" value="false" />
+    <int name="abu_saleh_toast_status_tc" value="-1" />
     <boolean name="custom_wall_profilepic" value="false" />
     <int name="rcCard3_GC" value="-270104" />
     <boolean name="stkr_wantsendconfirmation" value="true" />
@@ -284,22 +323,28 @@
     <boolean name="chats_show_contact_online_toast_check" value="false" />
     <string name="tick_style">rcios11</string>
     <int name="ModConPickColor_GC" value="-15847284" />
+    <int name="abu_saleh_toast_profile_rd" value="23" />
     <boolean name="RcUnSeenColor_Gactive" value="false" />
     <boolean name="key_hide_scrollup" value="false" />
     <int name="tabindicator" value="-16753441" />
     <boolean name="imsHideMStatus" value="false" />
     <boolean name="ModChatTextColor_Gactive" value="false" />
     <boolean name="key_quick_view" value="false" />
+    <int name="mas_latarkontak2" value="-16734076" />
     <int name="rcname_color_sub" value="-8224126" />
     <boolean name="rc_media_limit" value="true" />
+    <boolean name="PicHead" value="false" />
     <boolean name="rc_Txunseen_Gactive" value="false" />
     <boolean name="ModFabPressedColor_Gactive" value="false" />
     <string name="inconvo_trans_option">in-y</string>
+    <int name="rc_row_dot_rd" value="15" />
     <int name="HomeBarBar" value="-16777216" />
+    <int name="abu_saleh_toast_status_rd" value="23" />
     <boolean name="ModConPickColor_Gactive" value="false" />
     <string name="HomeEntry">yousef</string>
     <string name="hazar_bozkurt_sesler_gelenmesaj">0</string>
     <int name="date_divider_color_picker" value="-16053493" />
+    <int name="rc_mention_rounded" value="13" />
     <boolean name="bubblenew_Gactive" value="false" />
     <int name="main_text" value="14" />
     <boolean name="ModChatRightBubble_Gactive" value="false" />
@@ -312,7 +357,9 @@
     <int name="emojipopup_icons" value="-16777216" />
     <int name="ModContactNameColor" value="-16645630" />
     <boolean name="Audio_sensor" value="true" />
+    <boolean name="MasOption" value="true" />
     <boolean name="status_nm_Gactive" value="false" />
+    <boolean name="abu_saleh_toast_typing_cs" value="true" />
     <boolean name="rcAttachIcon_Gactive" value="false" />
     <boolean name="tabadgeTextColor_Gactive" value="false" />
     <boolean name="BGColor_Gactive" value="false" />
@@ -329,8 +376,10 @@
     <boolean name="start_bl" value="false" />
     <int name="yoTostC" value="-16753441" />
     <boolean name="chat_icon_forward_picker_Gactive" value="false" />
+    <boolean name="abu_saleh_toast_online_view" value="true" />
     <boolean name="yo_want_airplanemode" value="false" />
     <int name="status_ch" value="-16645630" />
+    <boolean name="yo_multi_account_menu" value="false" />
     <boolean name="Archv_chats" value="false" />
     <boolean name="RcsetTarg_Gactive" value="false" />
     <int name="yoTostT" value="-1" />
@@ -342,10 +391,11 @@
     <int name="rcAddColor" value="-16753441" />
     <int name="chat_icon_forward_picker" value="-16753441" />
     <int name="ModFabNormalColor_GCDir" value="2" />
+    <int name="abu_saleh_toast_typing_bc" value="-14833055" />
     <int name="ModConPickColor_GCDir" value="2" />
     <boolean name="hiden_group" value="false" />
     <string name="key_custom_icondown">0</string>
-    <string name="bubble_style">cvios</string>
+    <string name="bubble_style">cvios_v2</string>
     <boolean name="ModChatColor_Gactive" value="false" />
     <boolean name="cevronChat_Gactive" value="false" />
     <boolean name="key_popup" value="true" />
@@ -353,8 +403,11 @@
     <boolean name="HomeCounterText_Gactive" value="false" />
     <int name="date_left_color" value="-11645362" />
     <int name="rcMicColor" value="-16753441" />
+    <string name="abu_saleh_toast_profile_gv">0</string>
+    <boolean name="abu9aleh_status_audio" value="false" />
     <int name="quoted_name_picker" value="-14387106" />
     <int name="dial_text" value="-16777216" />
+    <string name="abu_saleh_toast_typing_gv">0</string>
     <boolean name="rcAddColor_Gactive" value="false" />
     <boolean name="log_show_name_check" value="true" />
     <boolean name="tabindicator_Gactive" value="false" />
@@ -367,6 +420,7 @@
     <boolean name="rc_audio_limit" value="true" />
     <int name="CardStori" value="-263173" />
     <string name="key_story_view">0</string>
+    <boolean name="abu_saleh_toast_typing_el" value="false" />
     <boolean name="date_left_color_Gactive" value="false" />
     <boolean name="rvkdmsg_icon_color_Gactive" value="false" />
     <int name="ModConColor_GCDir" value="2" />
@@ -381,6 +435,7 @@
     <boolean name="elapsed_time" value="true" />
     <int name="rcAttachTx" value="-16777216" />
     <boolean name="ModlastseenColor_Gactive" value="false" />
+    <int name="onlineDotchatColor" value="-16711828" />
     <int name="key_updown_bgcolor" value="-14833055" />
     <boolean name="key_chat_iconback_picker_Gactive" value="false" />
     <int name="ModWdgBKColor" value="-263173" />
